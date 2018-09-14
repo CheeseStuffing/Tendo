@@ -1,0 +1,132 @@
+body {
+	background: linear-gradient(105deg, #CCE7EE 60%, #A6DBD5 60%); 
+ 	background-attachment: scroll;
+ 	font-size: 13px;
+}
+
+a {
+	color: black;
+	text-decoration: none; 
+	padding: 5px;
+}
+
+a:hover { 
+	padding: 5px;
+	background-color: #F5BD98;
+}
+
+h1 { 
+	font-family: 'Lato', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+
+#wrap {
+	width: 1000px;
+	margin: 0px auto;
+	position: relative;
+	top: -8px;
+}
+
+header {
+	width: 900px;
+	height: 70px;
+	margin: 0px auto;
+	background-color: #EBF6F8;
+	font-family: 'Lato', sans-serif;
+}
+
+.headerMENU {
+	padding-right: 30px;
+	text-decoration: none;
+	line-height: 25px;
+	display: inline; 
+	font-size: 16px;
+}
+
+main {
+	width: 880px;
+	height: 70px;
+	margin: 0px auto;
+	background-color: #EBF6F8;
+	font-family: 'Lato', sans-serif;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+footer {
+	width: 880px;
+	background-color: #D4DFE5;
+	margin: 0px auto;
+	font-family: 'Lato', sans-serif;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.footerPAD {
+	padding-left: 5px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+#nav { 
+	
+}
+
+#logo {
+	width: 140px;
+	margin-top: 1px;
+	margin-left: 10px;
+}
+
+ul {
+	margin-left: -10px;
+	margin-top: -2px;
+	display: inline; 
+}
+
+ol {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	padding-right: 30px;
+	text-decoration: none;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+.strSTOR { 
+	width: 1000px;
+	height: 400px;
+	background-image:url(https://uwaterloo.ca/robotics-research/sites/ca.robotics-research/files/styles/banner-wide/public/uploads/images/banners/robohub_banner4.jpg?itok=jAvOTHE1);
+	border-radius: 30px;
+}
+
+.strLILLE {
+	width: 1000px;
+	height: 200px;
+	background-image:url(https://uwaterloo.ca/robotics-research/sites/ca.robotics-research/files/styles/banner-wide/public/uploads/images/banners/robohub_banner4.jpg?itok=jAvOTHE1);
+	border-radius: 30px;
+}
+
+.text {
+	vertical-align: top;
+	padding: 5px;
+}
+
+.textIMG {
+	padding: 5px; 
+	vertical-align: text-top;
+}
